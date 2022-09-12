@@ -21,6 +21,5 @@
  	<a href="https://www.twitch.tv/manticore2020" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "victor.asantos@sptech.school"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victor-gabriel-4151951a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-     ![Snake animation](https://github.com/victorgads/victorgads/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/victorgads/victorgads/blob/output/github-contribution-grid-snake.svg)
      </div>
