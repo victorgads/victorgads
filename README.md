@@ -1,4 +1,8 @@
 ## Seja bem vindo  eu sou Victor Gabriel 👋👋
+
+💻- Atualmente estou cursando ADS 
+ na Faculdade São Paulo Tech School.
+
 <br>
 <div align="center">
   <a href="https://github.com/victorgads">
