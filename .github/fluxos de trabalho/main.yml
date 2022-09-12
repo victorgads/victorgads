@@ -8,7 +8,7 @@ em :
 -cron     : " 0 */5 * * * "
 
 # Permite executar na lista de ações (utilizado para testes de compilação).
-  workflow_dispatch :
+  workflow_dispatch:
 
 #Regras _
 empregos :
