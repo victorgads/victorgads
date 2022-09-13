@@ -1,7 +1,11 @@
 ## Seja bem vindo  eu sou Victor Gabriel 👋👋
 
-💻- Atualmente estou cursando ADS 
- na Faculdade São Paulo Tech School.
+ 💻 - Atualmente estou cursando ADS 
+      na Faculdade São Paulo Tech School.
+      
+ 🎵 - Escutando música 
+ 
+ 📚 - Lendo e aprendendo 
 
 <br>
 <div align="center">
