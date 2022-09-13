@@ -2,10 +2,6 @@
 
  💻 - Atualmente estou cursando ADS 
       na Faculdade São Paulo Tech School.
-      
- 🎵 - Escutando música 
- 
- 📚 - vivendo e aprendendo 
 
 <br>
 <div align="center">
