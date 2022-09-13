@@ -5,7 +5,7 @@
       
  🎵 - Escutando música 
  
- 📚 - Lendo e aprendendo 
+ 📚 - vivendo e aprendendo 
 
 <br>
 <div align="center">
