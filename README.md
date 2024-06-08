@@ -1,7 +1,7 @@
 ## Seja bem vindo  eu sou Victor Gabriel 👋👋
 
  💻 - Empreendedor Digital Work - MVD
-      na Faculdade São Paulo Tech School.
+    
 
 <br>
 <div align="center">
