@@ -1,6 +1,6 @@
 ## Seja bem vindo  eu sou Victor Gabriel 👋👋
 
- 💻 - Atualmente estou cursando ADS 
+ 💻 - Empreendedor-Digital & Work-MVD
       na Faculdade São Paulo Tech School.
 
 <br>
