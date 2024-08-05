@@ -1,6 +1,6 @@
 ## Seja bem vindo  eu sou Victor Gabriel 👋👋
 
- 💻 - Empreendedor Digital Work - MVD
+ 💻 - Viver e aprender! -
     
 
 <br>
